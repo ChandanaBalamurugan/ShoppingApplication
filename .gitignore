@@ -1,0 +1,18 @@
+
+# Maven build output
+target/
+
+# Java compiled files
+*.class
+
+# VS Code settings
+.vscode/
+
+# Environment and database secrets
+.env
+.env.*
+!.env.example
+db.properties
+
+# Logs
+*.log
